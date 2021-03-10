@@ -1,0 +1,34 @@
+{
+  "name": "cdp-recruitment-javascript-master",
+  "version": "1.0.0",
+  "description": "Javascript developer test",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goumies/cdp-recruitment-javascript-master.git"
+  },
+  "keywords": [
+    "javascript",
+    "vanilla",
+    "node",
+    "test",
+    "adeo",
+    "codeworks"
+  ],
+  "author": "Romy Alula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goumies/cdp-recruitment-javascript-master/issues"
+  },
+  "homepage": "https://github.com/Goumies/cdp-recruitment-javascript-master#readme",
+  "devDependencies": {
+    "@jest/globals": "^26.6.2",
+    "jest": "^26.6.3"
+  }
+}
