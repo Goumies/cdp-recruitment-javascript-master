@@ -1,5 +1,14 @@
 # Javascript developer test
 
+## Commands
+To run all the tests:
+`npm test`
+
+To run the program:\
+`node app.js --filter=ry`\
+`node app.js --count`
+
+
 ## Filter
 
 Your job is to write a command-line interface in Node.js. 
