@@ -1,5 +1,7 @@
 # Javascript developer test
 
+/!\ Deep refactoring in progress /!\
+
 ## Commands
 To run all the tests:
 `npm test`
